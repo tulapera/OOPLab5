@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <WarehouseNumber>3</WarehouseNumber>
+    <ProductType>Food</ProductType>
+    <ProductCode>46</ProductCode>
+    <Name>батончик</Name>
+    <ArrivalDate>2024-12-21T00:00:00</ArrivalDate>
+    <ShelfLifeDays>128</ShelfLifeDays>
+    <Quantity>329</Quantity>
+    <PricePerUnit>18</PricePerUnit>
+  </Product>
+  <Product>
+    <WarehouseNumber>2</WarehouseNumber>
+    <ProductType>Electronics</ProductType>
+    <ProductCode>32</ProductCode>
+    <Name>м?крохвильова п?ч</Name>
+    <ArrivalDate>2022-04-13T00:00:00</ArrivalDate>
+    <ShelfLifeDays>1254</ShelfLifeDays>
+    <Quantity>35</Quantity>
+    <PricePerUnit>3755</PricePerUnit>
+  </Product>
+  <Product>
+    <WarehouseNumber>1</WarehouseNumber>
+    <ProductType>Clothing</ProductType>
+    <ProductCode>473</ProductCode>
+    <Name>футболка</Name>
+    <ArrivalDate>2024-07-15T00:00:00</ArrivalDate>
+    <ShelfLifeDays>657</ShelfLifeDays>
+    <Quantity>26</Quantity>
+    <PricePerUnit>346</PricePerUnit>
+  </Product>
+</ArrayOfProduct>

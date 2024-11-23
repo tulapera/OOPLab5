@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\Batenchuk5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\Batenchuk5.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\Batenchuk5.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\Batenchuk5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\bin\Debug\net8.0\Batenchuk5.exe
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\bin\Debug\net8.0\Batenchuk5.deps.json
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\bin\Debug\net8.0\Batenchuk5.runtimeconfig.json
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\bin\Debug\net8.0\Batenchuk5.dll
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\bin\Debug\net8.0\Batenchuk5.pdb
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\Batenchuk5.dll
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\refint\Batenchuk5.dll
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\Batenchuk5.pdb
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\Batenchuk5.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Batenchuk5\Batenchuk5\obj\Debug\net8.0\ref\Batenchuk5.dll
